@@ -1,5 +1,5 @@
 import java.io.*;
-public class GeeksForGeeks
+public class Triangle
 {
 	public static void printTriagle(int n)
 	{
